@@ -1,0 +1,9 @@
+.NewEmail form {
+    padding-bottom: 15px;
+  }
+  
+  .NewEmail form textarea {
+    height: 300px;
+    font-size: 24px;
+  }
+  
